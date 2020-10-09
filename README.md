@@ -1,6 +1,5 @@
 # splint_3
-splint_3 assignment için görüntü almak amacıyla expoda çıktı aldım 
-ancak bozulmalar meydana geldi bu sebeple repository içine genymotiondan aldığım ekran görüntüsünü ekledim
+splint_3 assignment 
 
-
-https://snack.expo.io/@junejune132/sprint3
+you can check assignment via this link;
+ https://snack.expo.io/@junejune132/sprint3
